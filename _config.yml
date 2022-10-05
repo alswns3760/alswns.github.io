@@ -107,12 +107,12 @@ author:
   name             : "MinJun Sea" 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "어마 무시한 웹 사이트"
-  location         : "Somewhere"
+  location         : "Repubilc of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:alswns3760@naver.com"
+      url: "mailto:alswns3760@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://github.io/alswns3760"
