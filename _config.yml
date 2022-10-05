@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "블로그 만들기 연습"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "그냥 적어봄"
+name                     : "Ya ya"
 description              : "An amazing website."
 url                      : "https://alswns3760.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
