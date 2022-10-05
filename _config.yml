@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "MinJun Sea" 
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/oen.jpg"
   bio              : "어마 무시한 웹 사이트  dsda"
   location         : "Repubilc of Korea"
   email            :
